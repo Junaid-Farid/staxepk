@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.custom-container{
+    margin: 0 auto;
+    width: 601px
+}
+.h_img{
+    width: 601px;
+}
+p.top-paragraph{
+    color: #fff;
+    font-size: 15pt;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center; 
+    background-color: transparent;
+
+}
+.logo-text{
+    font-size: 83px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color: #d7b25c;
+    opacity: 0.6;
+    background-color: transparent;
+    margin: 0 auto;
+    padding: 0px;
+}
+#banner{
+    background-color: #fff;
+
+}
+.banner-image{
+    margin: 0 auto;
+    padding-top: 56px;
+    padding-bottom: 56px;
+
+}
+#content-section{
+    background-color: #212020;
+    padding-top: 15px;
+}
+#content-section p{
+    font-family: Arial;
+    font-size: 7.6pt;
+    color: #fff;
+    text-align: center;
+}
+#right-sidebar a{
+    color: #000;
+    font-family: Arial;
+    font-size: 9pt;
+    text-decoration: none;
+    /*background-color: #fff;*/
+    /*    padding-top: 15px;
+        padding-bottom: 15px;*/
+    text-align: center; 
+    position: relative;
+    display: block;
+    outline: none;
+    /*margin-top: 17px;*/
+    outline: none;
+}
+.margin-top-17{
+    margin-top: 17px;
+}
+.margin-top-23{
+    margin-top: 23px;
+} 
+.padding-right-0{
+    padding-right: 0px;
+}
+#footer-area{ 
+    height: 45px;
+    background-color: #d7b15b;
+    color: #fff;
+}
+.absolute-position{
+    position: absolute;
+}
+#social-icon{
+    padding: 40px 0px;
+} 
+#social-icon img{
+    text-align: left;
+} 
+.social-icon{ 
+    padding-left: 28px;
+}
+.margin-top-52{
+    margin-top: 52px;
+}
+.margin-top-153{
+    margin-top: -153px;
+}
+.mejs-controls .mejs-button button:focus {
+    outline: none !important;
+}
+.mejs-controls .mejs-button button {
+	background-image: url('../img/controls-dark.svg') !important;
+}
+/* change the color of the progress bar */
+.mejs-controls .mejs-time-rail .mejs-time-total {
+	background: #000 !important;
+}
+/* change the color of the current time bar */
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #000 !important;
+}
+/* change the color of the file loading bar */
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+	background: #000 !important;
+}
+.mejs-controls .mejs-time-rail span, .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total, .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{
+    background: #000 !important;
+}
+.mejs-container, .mejs-embed, .mejs-embed body, .mejs-container .mejs-controls{
+    background-color: #fff !important;
+    color: #000 !important;
+    margin-top: 17px;
+}
+.mejs-container .mejs-controls .mejs-time{
+    color: #000 !important;
+}
+.html5-video-player{
+    background-color: #212020 !important;
+}
+.unstarted-mode:not(.playing-mode) .ytp-cued-thumbnail-overlay:not([aria-hidden=true]), .ended-mode .ytp-cued-thumbnail-overlay:not([aria-hidden=true]){
+    background: #212020 !important;
+} 
+.html5-video-player { 
+    background-color: #212020 !important;
+}
